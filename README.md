@@ -1,5 +1,7 @@
 # React + TypeScript + Vite
 
+![Screenshot 2024-04-13 212328](https://github.com/AlexMocMagic/Chat-App/assets/126344692/8b7babff-b877-430d-bc08-25f82e36079c)
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
